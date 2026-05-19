@@ -6,7 +6,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)
 
-> Aplicação desktop em Python para catalogar e acompanhar sua jornada de leitura — com dashboard de estatísticas, avaliações e metas anuais.
+> Aplicação desktop em Python para catalogar e acompanhar a jornada de leitura — com dashboard de estatísticas, avaliações e metas anuais.
 
 ---
 
